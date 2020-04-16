@@ -1,0 +1,11 @@
+---
+spines:
+  data:
+    site: home
+    role: spine
+    type: network_device
+leafs:
+  data:
+    site: home
+    role: leaf
+    type: network_device
